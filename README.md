@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Araamshoo-frontend
+- 🌱 I’m currently learning Flutter,Golang,Avr
+- 🤔 I’m looking for help with how to make pc based oscilloscope via avr
+- 📫 How to reach me: Hamed.balanar@gmail.com
+- ⚡ Fun fact: i have some superpowers, its called ADHD. hehe
 <!--
 **Hamedblue1381/Hamedblue1381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
