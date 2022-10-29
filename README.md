@@ -6,10 +6,10 @@
 - ⚡ Fun fact: i have some superpowers, its called ADHD. hehe
 - Stats: <br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamedblue1381)](https://github.com/anuraghazra/github-readme-stat)
- 
+ <!--
 - Languages and Tools : <br />
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamedblue1381&layout=compact)](https://github.com/Hamedblue1381/github-readme-stats)
-
+-->
 
 <!--
 **Hamedblue1381/Hamedblue1381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
