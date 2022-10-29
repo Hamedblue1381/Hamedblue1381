@@ -4,10 +4,10 @@
 - 🤔 I’m looking for help with how to make pc based oscilloscope via avr
 - 📫 How to reach me: [Hamed's Email](Hamed.balanar@gmail.com)
 - ⚡ Fun fact: i have some superpowers, its called ADHD. hehe
-- Stats:
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamedblue1381)](https://github.com/anuraghazra/github-readme-stat)
+- Stats: <br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamedblue1381)](https://github.com/anuraghazra/github-readme-stat)
  
-- Languages and Tools :
+- Languages and Tools : <br />
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamedblue1381&layout=compact)](https://github.com/Hamedblue1381/github-readme-stats)
 
 
