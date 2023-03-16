@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning Flutter,Golang,Avr
 - 📫 How to reach me: [Hamed's Email](Hamed.balanar@gmail.com)
 - ⚡ Fun fact: i have some superpowers, its called ADHD. hehe
-- Stats: <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamedblue1381)](https://github.com/anuraghazra/github-readme-stat) <br />
+<!-- - Stats: <br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamedblue1381)](https://github.com/anuraghazra/github-readme-stat) <br /> -->
 
 
 Languages and tools :<br />
