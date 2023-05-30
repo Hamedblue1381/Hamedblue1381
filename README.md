@@ -20,6 +20,8 @@ Languages and tools :<br />
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
  <!--
 - Languages and Tools : <br />
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamedblue1381&layout=compact)](https://github.com/Hamedblue1381/github-readme-stats)
