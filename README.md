@@ -2,7 +2,7 @@
  <!--
 -🔭 I’m currently working on [Araamshoo-frontend](https://github.com/mohammadhprp/araam-sho-frontend).
 -->
-- 🌱 I’m currently learning Flutter,Golang,Laravel
+- 🌱 I’m currently learning Design Patterns
 - 📫 How to reach me: [Hamed's Email](HamedMLK.mohammadi@gmail.com)
 - ⚡ Fun fact: i have some superpowers, its called ADHD. hehe
 <!-- - Stats: <br />
